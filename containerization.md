@@ -43,3 +43,4 @@ Access detached container:
 ```
 docker exec -it (container) (terminal emulator, bash, ubuntu, etc)
 ```
+![containerization screenshot](/images/containerization.jpg)
